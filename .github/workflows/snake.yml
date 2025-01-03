@@ -1,4 +1,4 @@
-name: main
+name: Github snake game
 
 on: [push]
 
