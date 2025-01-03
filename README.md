@@ -65,6 +65,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/isuri rathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuri rathnayake" height="50" width="50" /></a>
-<a href="https://fb.com/isuri rathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isuri rathnayake" height="50" width="50" /></a>
+<a href="[https://linkedin.com/in/isuri rathnayake](http://linkedin.com/in/isuri-rathnayake-7a581430b)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuri rathnayake" height="50" width="50" /></a>
+<a href="[https://fb.com/isuri rathnayake](https://www.facebook.com/share/1XpGfoWPw5/?mibextid=wwXIfr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isuri rathnayake" height="50" width="50" /></a>
 </p>
